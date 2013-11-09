@@ -6,6 +6,13 @@ oder Denner gerade zum halben Preis erhältlich ist.
 
 ![Anker Bier](anker.jpg)
 
+
+Usage
+-----
+
+    $ python3 aktion.py
+
+
 License
 -------
 
