@@ -12,6 +12,7 @@ Usage
 
     $ python3 aktion.py
 
+Wenn das Ankerbier Aktion ist, ist der Rückgabewert 0, ansonsten 1
 
 License
 -------

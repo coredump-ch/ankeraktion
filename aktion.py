@@ -6,5 +6,7 @@ response = urlopen(url)
 html = response.read()
 if b'Anker Lagerbier' in html:
     print('Anker ist Aktion!')
+    exit(0) 
 else:
     print('Anker leider nicht Aktion')
+    exit(1)
